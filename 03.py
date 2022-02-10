@@ -9,7 +9,7 @@ from multiprocessing import Process
 from multiprocessing import current_process 
 from multiprocessing import Value, Array
 
-N= 8
+N = 8
 def is_anybody_inside(critical, tid): 
     found = False
     i= 0
@@ -35,6 +35,7 @@ def task(common, tid, critical):
         common.value = v
         print(f'{tid}−{i}: End of critical section') 
         critical[tid] = 0
+
 def main(): 
     lp = []
     common = Value('i', 0) 
