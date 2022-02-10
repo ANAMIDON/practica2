@@ -1,0 +1,110 @@
+Script started on Thu Feb 10 11:17:09 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hppython3 01.py[?2004l
+  File "01.py", line 15
+    print(f’{tid}−{i}: Non−critical Section’)
+           ^
+SyntaxError: invalid character in identifier
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hpython3 01.py[13Dgedit .ssh id_rsa.pub[21Dpython3 01.py        [8D[?2004l
+  File "01.py", line 15
+    print(f’{tid}−{i}: Non−critical Section’)
+           ^
+SyntaxError: invalid character in identifier
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hggit push[?2004l
+Enter passphrase for key '/Users/ana/.ssh/id_rsa': 
+0192837465
+Everything up-to-date
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004h00192837465[?2004l
+zsh: command not found: 0192837465
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004h0192837465[10Dgit push  [8Dpython3 01.py[?2004l
+  File "01.py", line 15
+    print(f’{tid}−{i}: Non−critical Section’)
+           ^
+SyntaxError: invalid character in identifier
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hpython3 01.py[13D0192837465   [10Dgit push  [8Dpython3 01.py[13Dgedit .ssh id_rsa.pub[21Dpython3 01.py        [8D[13Dgedit .ssh id_rsa.pub[21Dgit clone git@github.com:ANAMIDON/repositorio1.git[50Dgedit .ssh id_rsa.pub                             [29D[21Dpython3 01.py        [8D[13Dgedit .ssh id_rsa.pub[21Dgit clone git@github.com:ANAMIDON/repositorio1.git[50Dhead id_rsa.pub                                   [35D[15Dssh-keygen -t rsa -b 2048 [26Dhead id_rsa.pub          [10D[15Dssh-keygen -t rsa -b 2048[25Dclear                    [20Dgit clone /srv/git/prpa[13D[P[12C [12D/srv/git/prpa[23Djupyter notebook       [16Dclear           [11Dcd   clearjupyter notebook[16Dgit clone /srv/git/prpa[13D[P[12C [12D/srv/git/prpa[23Dclear                  [18Dssh-keygen -t rsa -b 2048[25Dhead id_rsa.pub          [10D[15Dssh-keygen -t rsa -b 2048 [25Dhead id_rsa.pub          [10D[15Dgit clone git@github.com:ANAMIDON/repositorio1.git[50Dgedit .ssh id_rsa.pub                             [29D[21Dpython3 01.py        [8D[13Dgit push     [8D0192837465[10Dpython3 01.py[13D             [13Dggig  python3 01.py[13D0192837465   [10Dgit push  [8Dpython3 01.py[13Dgedit .ssh id_rsa.pub[21Dpython3 01.py        [8D[13Dgit push     [8D0192837465[10Dpython3 01.py[13D             [13Dggit add 01.pº y[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hgit add 01.py.py 2.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hgit add 02.py.py 3.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hgit add 03.py.py 4.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hggit commit[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+	[31msesion2.txt[m
+
+nothing added to commit but untracked files present
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004h::r[?2004l
+zsh: command not found: :r
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hppwd[?2004l
+/Users/ana/practica2
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hxxsx  ccd ../[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana ~ % [K[?2004hlls[?2004l
+Applications								TAREA SELE.pages
+Comentario de texto de Marx definitivo.pdf				carta colectiva del episcopado español.pages
+Comentario de texto de Marx.pages					comentario kant.pages
+Comentario de texto de Marx.pdf						config.log
+Constitución 1978 y sistema democrático español.pages			config.status
+Desktop									ejercicio2Prática1.sav
+Documentos								hoja 2 completa.R
+Documents								hoja 3.R
+Downloads								holaH.hsig
+Fundamentos ideológicos y evolución política franquismo .pages		iCloud Drive (archivo)
+Gobiernos democráticos e integración en la UE .pages			iMyFone_WhatsApp_Backup
+Guillermo de Ockham resumen pdf.pdf					id_rsa
+IBM									id_rsa.pub
+Inicios del reinado de Juan Carlos I y transición (75-82).pages		info3.py
+Library									kant pdf.pdf
+Los trece puntos de Juan Negrín .pages					literatura 1.pages
+Maquiavelo resumen pdf.pdf						matlab_crash_dump.9547-1
+Marx.pages								matrices.py
+Movies									mayo 18.jpg
+Music									mk
+Nietzsche.pages								pdf Marx.pdf
+Pictures								pdf Nietzsche.pdf
+Public									pdf. Fundamentos ideológicos y evolución política franquismo .pdf
+Represión y oposición al régimen franquista .pages			pdf. Represión y oposición al régimen franquista .pdf
+Resultado1.spv								pdf. Sociedad y economía en el franquismo .pdf
+Resultado2.spv								práctica 3
+Resumen Descartes pdf.pdf						practica2
+Rousseau pdf.pdf							prueba nota.txt
+Rousseau.pages								remuestreo conservación.R
+Sin noticias de Gurb.pages						sesion.txt
+Sociedad y economía en el franquismo .pages				teatro anterior al 39.pages
+TAREA SELE pdf.pdf							trabajo marian.sav
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana ~ % [K[?2004hccd Desktop[1m/[0m[0m/ç [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/Desktop[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana Desktop % [K[?2004hlls *py[?2004l
+01.py	02.py	03.py	04.py
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/Desktop[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana Desktop % [K[?2004hccp *py ../pr
+[Jpractica2/        prueba\ nota.txt  práctica\ 3[A[0m[27m[24m[40Ccp *py ../pr[Kactica2[1m/[0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/Desktop[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana Desktop % [K[?2004hccd ../pa r
+[Jpractica2/        prueba\ nota.txt  práctica\ 3[A[0m[27m[24m[40Ccd ../pr[Kactica2[1m/[0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hlls[?2004l
+01.py		02.py		03.py		04.py		LICENSE		README.md	sesion2.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hlls -l[?2004l
+total 136
+-rw-r--r--  1 ana  staff   1135 10 feb 11:31 01.py
+-rw-r--r--  1 ana  staff   1383 10 feb 11:31 02.py
+-rw-r--r--  1 ana  staff   1463 10 feb 11:31 03.py
+-rw-r--r--  1 ana  staff   1582 10 feb 11:31 04.py
+-rw-r--r--  1 ana  staff  35149 10 feb 11:06 LICENSE
+-rw-r--r--  1 ana  staff     11 10 feb 11:06 README.md
+-rw-r--r--  1 ana  staff  10446 10 feb 11:31 sesion2.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hr ggit add    stu atus[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   01.py[m
+	[31mmodified:   02.py[m
+	[31mmodified:   03.py[m
+	[31mmodified:   04.py[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31msesion2.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Ana.local/Users/ana/practica2[0m[27m[24m[J(base) ana@MacBook-Air-de-Ana practica2 % [K[?2004hdditr  d  ddit add     d  ggit add ( *
